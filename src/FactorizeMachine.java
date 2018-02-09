@@ -1,5 +1,6 @@
 // A microprogram designed to factorize numbers.
-// Updated @ 5 Feb 2018.
+// Created @ Changshu @ 8 Jan 2018
+// Last updated @ 5 Feb 2018.
 import java.util.Scanner;
 
 class FactorizeMachine {
